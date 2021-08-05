@@ -16,6 +16,7 @@
 [<img align="left" alt="R_T_blanoc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="R_T_blanoc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="R_T_blanoc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align='left' alt="R_T_Blacno | EMAIL" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-email-icon-png-image_4142012.jpg">][email]
 
 <br />
 
@@ -38,3 +39,4 @@
 [instagram]: https://instagram.com/RTBlanco_
 [linkedin]: https://linkedin.com/in/ronnytoribio
 [Virtual-menu]: https://github.com/RTBlanco/virtual-menu
+[email]: mailto:ronnytoribio1@hotmail.com?subject=Found%20you%20on%20github
