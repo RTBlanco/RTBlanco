@@ -7,7 +7,7 @@
 
 - 🤔 I'm currently working on [Virtual-menu]
 - 🌱 I’m currently learning `express js` and `typescript` 🤣
-- 👯 I’m looking to join team that will allow me to constantly learn new things
+- 👯 I’m looking to join a team that will allow me to constantly learn new things
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to shoot photogrophy when ever I can 📸
 
