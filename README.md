@@ -7,7 +7,7 @@
 
 - 🤔 I'm currently working on [Virtual-menu]
 - 🌱 I’m currently learning `express js` and `typescript` 🤣
-- 🥅 2021 Goals: Become very proficient in algorithms 
+- 🥅 2021 Goals: create some games  
 - ⚡ Fun fact: I love to shoot photogrophy when ever I can 📸
 
 ### Connect with me:
