@@ -1,14 +1,12 @@
 ### Hi there, I'm Ronny  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/R_T_blanco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=R_T_blanco)
-
-## I'm a BasketBall fan, Car guy, Developer, and Gamer!!
+## I'm a basketball fan, Car guy, Developer, and Gamer!!
 
 - 🤔 I'm currently working on [Virtual-menu]
-- 🌱 I’m currently learning `express js` and `typescript` 🤣
-- 🥅 2022 Goals: create some games  
-- ⚡ Fun fact: I love to shoot photogrophy when ever I can 📸
+- 🌱 I’m currently learning Microprocessor Programming 
+- 🥅 2025 Goals: create some games  
+- ⚡ Fun fact: I love to shoot photography whenever I can 📸
 
 ### Connect with me:
 
@@ -37,7 +35,6 @@
 
 
 [twitter]: https://twitter.com/R_T_Blanco
-[instagram]: https://instagram.com/RTBlanco_
 [linkedin]: https://linkedin.com/in/ronnytoribio
 [Virtual-menu]: https://github.com/RTBlanco/virtual-menu
 [email]: mailto:ronnytoribio1@hotmail.com?subject=Found%20you%20on%20github
