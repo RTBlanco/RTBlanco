@@ -4,7 +4,7 @@
 ## I'm a basketball fan, Car guy, Developer, and Gamer!!
 
 - 🤔 I'm currently working on [Virtual-menu]
-- 🌱 I’m currently learning Microprocessor Programming 
+- 🌱 I’m currently learning embedded system programming 
 - 🥅 2025 Goals: create some games  
 - ⚡ Fun fact: I love to shoot photography whenever I can 📸
 
