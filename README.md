@@ -5,7 +5,7 @@
 
 - 🤔 I'm currently working on [Virtual-menu]
 - 🌱 I’m currently learning embedded system programming 
-- 🥅 2025 Goals: create some games  
+- 🥅 2026 Goals: create some games  
 - ⚡ Fun fact: I love to shoot photography whenever I can 📸
 
 ### Connect with me:
